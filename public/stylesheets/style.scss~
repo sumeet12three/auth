@@ -1,0 +1,5 @@
+
+$b: #CCCCCC;
+
+body
+ {background: $b;}
